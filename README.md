@@ -1,7 +1,5 @@
-# diabetes-data-analysis
-Exploratory Data Analysis of the pima indians Diabetes dataset using Python (Pandas, Matplotlib, Seaborn) with insights and visualizations.
-
 ## Project Overview
+![Average Glucose Chart](images/Average_Glucose_by_Diabetes_chart.png)
 This project explores the **pima indians Diabetes dataset** to identify patterns and insights about diabetes risk factos using Python (Pandas, Matplotlib, Seaborn). The analysis includes data cleaning, exploratory data analysis (EDA), and visiualisation.
 
 ---
@@ -54,6 +52,9 @@ Created Age Groups for better analysis.
  Bar charts, box plot.
 
 ## Key Visualizations
+![Average Glucose Chart](images/Average_Glucose_by_Diabetese_Chart.png)
+
+![Glucose Level Chart](images/Glucose_level_chart.png)
 
 
 ## Key Insights
